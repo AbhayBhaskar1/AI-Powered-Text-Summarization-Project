@@ -1,4 +1,10 @@
-# End to end Text-Summarizer-Project
+# AI-Powered Text Summarization Project
+
+# Overview
+
+This project implements state-of-the-art text summarization techniques using machine learning. It includes robust logging, exception handling, and utility functions for improved system stability and maintainability. Experimentation was conducted in Jupyter notebooks for data processing, model training, and evaluation to optimize performance. A prediction pipeline and user application were developed for accurate text summarization with enhanced processing efficiency. The project is deployed using GitHub Actions for continuous integration and AWS for hosting.
+
+
 
 
 # How to run?
